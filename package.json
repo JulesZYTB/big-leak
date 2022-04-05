@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "http": "*",
-    "fs": "*",
-  },
+    "fs": "*"
+  }
 
 }
